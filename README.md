@@ -1,0 +1,1 @@
+# 08-SquareMathsPuzzle-Prolog-2022
